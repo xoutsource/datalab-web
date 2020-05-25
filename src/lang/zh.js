@@ -72,7 +72,7 @@ export default {
     size: '布局大小'
   },
   login: {
-    title: '系统登录',
+    title: 'DataLab - 数据管理解决方案',
     logIn: '登录',
     username: '请输入账号',
     password: '请输入密码',

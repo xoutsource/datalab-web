@@ -72,7 +72,7 @@ export default {
     size: 'Global Size'
   },
   login: {
-    title: 'Login Form',
+    title: 'DataLab - Data management',
     logIn: 'Log in',
     username: 'Username',
     password: 'Password',

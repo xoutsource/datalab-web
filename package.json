@@ -1,7 +1,7 @@
 {
   "name": "datalab-web",
   "version": "1.0.0",
-  "description": "资质鉴定工具",
+  "description": "数据实验室",
   "author": "xos <xoutsource@163.com>",
   "license": "MIT",
   "scripts": {

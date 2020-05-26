@@ -130,9 +130,7 @@ export default {
             .catch(() => {
               this.loading = false
             })
-          console.log('login successful')
         } else {
-          console.log('error submit!!')
           return false
         }
       })
